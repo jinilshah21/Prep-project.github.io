@@ -1,0 +1,97 @@
+
+        .windowpanel {
+            position: relative;
+            background-color: rgb(188, 207, 81);
+            text-align: left;
+            margin: auto;
+            height: 80px;
+            top: 0;
+            border-radius: 10px;
+            border: 3px solid black;
+            box-shadow: 5px 5px 10px 0px rgb(56, 55, 55);
+            opacity: 0px;
+            font-family: sans-serif;
+        }
+
+        .text {
+            position: absolute;
+            left: 55px;
+            bottom: 1px;
+        }
+
+        .logo {
+            position: relative;
+            left: 5px;
+            top: 25px;
+            width: 50px;
+            border-radius: 10px;
+        }
+
+        .mainbody {
+            position: relative;
+            background: rgb(209, 57, 57);
+            border: black;
+            top: 80px;
+            height: 250px;
+            border-radius: 10px;
+            width: 80%;
+            margin: auto;
+            border: 2px solid black;
+            box-shadow: 7px 7px 8px 0px rgb(102, 77, 77);
+        }
+
+        .mainbody1 {
+            background-color: rgb(102, 207, 199);
+            height: 20%;
+            border-radius: 10px 0px 0px 0px;
+            width: 49.5%;
+            float: left;
+            border-bottom: 2px solid black;
+            border-right: 2px solid black;
+
+
+        }
+
+        .mainbody2 {
+
+            background-color: rgb(102, 207, 199);
+            height: 20%;
+            border-radius: 0px 10px 0px 0px;
+            width: 49.5%;
+            float: right;
+            border-left: 2px solid black;
+            border-bottom: 2px solid black;
+
+        }
+
+        .mainbodybottom {
+            position: relative;
+            background-color: rgb(102, 207, 199);
+            width: 100%;
+            top: 219px;
+            height: 12.5%;
+            border-radius: 0px 0px 10px 10px;
+            border-top: 2px solid black;
+            border-bottom: 2px solid black;
+        }
+
+        .maintext1 {
+            position: relative;
+            text-align: center;
+            font-size: 25px;
+            bottom: 15px;
+            font-family: cursive;
+        }
+
+        .bottomtext {
+            text-align: center;
+            position: relative;
+            bottom: 44px;
+            font-family: cursive;
+
+        }
+
+        body {
+            background-color: rgb(107, 207, 157);
+        }
+    
